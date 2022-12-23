@@ -1,0 +1,19 @@
+.btn {
+    background-color: transparent !important;
+    color: black !important;
+    font-size: 12px !important;
+    border: none !important;
+    width: 150px !important;
+    padding: 10px 7px 10px 11px !important;
+    box-shadow: 2px 2px 3px rgb(17 16 16 / 18%), -1px 1px 4px 0px rgb(66, 63, 63) !important;
+}
+.dropdown-menu{
+    --bs-dropdown-min-width: 8.7rem !important;
+    position:absolute !important;
+    box-shadow: 2px 0px 2px rgb(17 16 16 / 30%) !important;
+    margin: 0px 0px 0px 0px !important;
+    background-color: #fff;  
+    /* transform: translate3d(0px, 45px, 0px) !important; */
+    width: 150px;
+ 
+}
